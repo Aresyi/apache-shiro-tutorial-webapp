@@ -3,3 +3,7 @@
 *.iws
 .idea/
 target/
+/.settings/
+/.classpath
+/.project
+/.gitignore
